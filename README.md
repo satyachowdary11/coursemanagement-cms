@@ -225,13 +225,7 @@ Edit
 
 ---
 
-Let me know if you'd like:
-- A second version of this README for deployment (e.g., Heroku/AWS)
-- React frontend code to match this backend  
-- CI/CD setup instructions  
-- Swagger/OpenAPI documentation
 
-Ready for the frontend setup or want to create a default admin user now?
 
 
 
